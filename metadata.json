@@ -1,0 +1,6 @@
+{
+  "name": "Movie Budget Management System",
+  "description": "Full-stack studio production budget, weekly box-office collection, profitability analytics, and film catalog management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
